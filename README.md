@@ -11,6 +11,7 @@ NodeJS based Text, Image, File Real Time Chat Room.
 
 
 >ChatRoom is a messaging and file sharing project based on angularjs and  node.js which allows users to just enter username(nickname) and start using chat messenger:
+>This is amazing
 
 ### Installation
 
